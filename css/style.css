@@ -1,0 +1,49 @@
+html {
+    background: linear-gradient(to right, #DBE2E9 0%, #ff99cc 80%);
+
+}
+
+h1{
+    color: black;
+    font-family: monospace;
+    font-weight: 40px;
+}
+
+h2{
+    color: black;
+    font-family: monospace;
+    font-weight: 30px;
+    background: linear-gradient(to left, #ffc347 0%, tomato 40%);  
+    text-align: center;
+}
+
+h1{
+    color: black;
+    font-family: monospace;
+    font-weight: 40px;
+    
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    align-content: center;
+    
+}
+
+
+div {
+    text-align: center;
+  }
+
+.produto{
+    color: darkred;
+    font-weight: 25px;
+    
+}
+    
+.marca{
+    color:darkmagenta;
+    font-weight: 30px;
+    font-family: monospace;
+}
